@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Mostafizur Rahman</h1>
-<h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<h3 align="center">A passionate Software engineer from Bangladesh</h3>
   <img align='right' width='400' src="https://4kwallpapers.com/images/walls/thumbs_3t/5947.png" alt="picture" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafiz1257&label=Profile%20views&color=0e75b6&style=flat" alt="mostafiz1257" /> </p>
