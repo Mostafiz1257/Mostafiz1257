@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mostafizur rahman" target="blank"><img src="https://img.shields.io/twitter/follow/mostafizur rahman?logo=twitter&style=for-the-badge" alt="mostafizur rahman" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS , Redux , MySQL**
+- 🌱 I’m currently learning **AWS , Docker , MySQL**
 
 - 💬 Ask me about **MERN,REACT,BACKEND**
 
