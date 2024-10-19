@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://via.placeholder.com/1200x300?text=Your+Custom+Header+Image" alt="Header Image" />
+</h1>
+
+<h2 align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</h2>
+
 <h1 align="center">Hey there! 👋 I'm Md. Mostafizur Rahman</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Lifelong Learner</h3>
 
