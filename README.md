@@ -1,4 +1,4 @@
-<div style="background-image: url('https://images.unsplash.com/photo-1607746883140-e61f43138dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRlY2hub2xvZ3l8ZW58MHx8fHwxNjg2Mzk0NzY2&ixlib=rb-1.2.1&q=80&w=1080'); 
+<div style="background-image: url('https://img.freepik.com/free-vector/modern-duotone-red-esports-twitter-header_23-2149440596.jpg?t=st=1729354550~exp=1729358150~hmac=d89ff7637727a584bef4de6502a674891693b0ba4a174c2573f7b19c1a80f56a&w=826'); 
              background-size: cover; 
              background-position: center; 
              color: white; 
