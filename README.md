@@ -35,13 +35,13 @@ From designing front-end experiences to architecting back-end systems, I enjoy e
 ### 🌐 Find Me Around the Web:
 <p align="center">
     <a href="https://linkedin.com/in/mostafizur-rahman" target="_blank">
-        ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 5px;" />
     </a>
     <a href="https://twitter.com/mostafizur_rahman" target="_blank">
-        ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="40" height="40" style="margin: 5px;" />
     </a>
     <a href="https://instagram.com/mostafizur_rahman" target="_blank">
-        ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" width="40" height="40" style="margin: 5px;" />
     </a>
 </p>
 
