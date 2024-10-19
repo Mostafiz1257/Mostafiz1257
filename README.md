@@ -1,4 +1,4 @@
-<div style="background-image: url('https://images.unsplash.com/photo-1542061619-7015f9a59d55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHRlY2hub2xvZ3l8ZW58MHx8fHwxNjg2MzgzMzU0&ixlib=rb-1.2.1&q=80&w=1080'); 
+<div style="background-image: url('https://images.unsplash.com/photo-1607746883140-e61f43138dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRlY2hub2xvZ3l8ZW58MHx8fHwxNjg2Mzk0NzY2&ixlib=rb-1.2.1&q=80&w=1080'); 
              background-size: cover; 
              background-position: center; 
              color: white; 
