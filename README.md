@@ -1,6 +1,8 @@
 # Hey there! 👋 I'm Md. Mostafizur Rahman
 ###  Full Stack Developer | Lifelong Learner
 
+![Cover Image]([https://your-image-url.com/cover-image.jpg](https://www.split.io/wp-content/uploads/Blog-2160x1080_GitandGitHubatWork-1-1920x960.jpg))
+
 **🔭 Building innovative solutions with a passion for technology and problem-solving.**  
 From designing front-end experiences to architecting back-end systems, I enjoy every step of the process.
 
