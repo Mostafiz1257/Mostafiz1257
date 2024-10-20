@@ -42,9 +42,9 @@ From designing front-end experiences to architecting back-end systems, I enjoy e
   <a href="https://facebook.com/mostafiz.mostafiz.9216" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="[[https://instagram.com/mostafiz1257]](https://www.instagram.com/mostafiz1257)" target="_blank">
+<a href="https://www.instagram.com/mostafiz1257" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+</a>
 
 </div>
 </p>
