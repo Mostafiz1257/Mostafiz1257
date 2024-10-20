@@ -4,7 +4,7 @@
 ![Cover Image](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 **🔭 Building innovative solutions with a passion for technology and problem-solving.**  
-From designing front-end experiences to architecting back-end systems, I enjoy every step of the process.
+From designing front-end experiences to architecting back-end systems, I enjoy every step of the process. I specialize in working with **TypeScript, JavaScript, Next.js, React, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, Docker, and MySQL** to create scalable and efficient solutions.
 
 ### 🛠️ Technologies I Work With:
 
