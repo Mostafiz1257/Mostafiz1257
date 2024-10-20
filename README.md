@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Md. Mostafizur Rahman
-### Software Engineer | Full Stack Developer | Lifelong Learner
+###  Full Stack Developer | Lifelong Learner
 
 **🔭 Building innovative solutions with a passion for technology and problem-solving.**  
 From designing front-end experiences to architecting back-end systems, I enjoy every step of the process.
