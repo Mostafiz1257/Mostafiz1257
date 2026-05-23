@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mostafiz Rahman
+# Mostafizur Rahman
 
 **Full Stack Developer · Bangladesh 🇧🇩**
 
