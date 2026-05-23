@@ -1,8 +1,6 @@
 <div align="center">
 
-# Mostafizur Rahman
 
-**Full Stack Developer · Bangladesh 🇧🇩**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafiz-profile/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mostafiz_swe)
